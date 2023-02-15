@@ -2,7 +2,7 @@ const header = document.querySelector('header');
 const section = document.querySelector('section');
 
 let xhr = new XMLHttpRequest();
-let url = 'https://mdn.github.io/alex0palii/repository1/db.json';
+let url = 'https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json';
 
 xhr.open('GET', url);
 xhr.responseType = 'text';
