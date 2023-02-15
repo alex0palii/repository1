@@ -1,5 +1,5 @@
 let xhr = new XMLHttpRequest();
-let url = 'https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json';
+let url = 'https://alex0palii.github.io/repository1/db.json';
 
 xhr.open('GET', url);
 xhr.responseType = 'text';
