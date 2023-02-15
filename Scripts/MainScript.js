@@ -1,6 +1,3 @@
-const header = document.querySelector('header');
-const section = document.querySelector('section');
-
 let xhr = new XMLHttpRequest();
 let url = 'https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json';
 
